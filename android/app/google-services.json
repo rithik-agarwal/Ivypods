@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "874966506735",
+    "firebase_url": "https://flippo-13ac7.firebaseio.com",
+    "project_id": "flippo-13ac7",
+    "storage_bucket": "flippo-13ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874966506735:android:213b26667e81a346fc0f1a",
+        "android_client_info": {
+          "package_name": "com.example.internship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874966506735-tv74frc9pjbik1k5iqnqf4bpre1t918o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeQkPL2QjaeTcgObmpEVh97n5hkSdbFWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874966506735-tv74frc9pjbik1k5iqnqf4bpre1t918o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
